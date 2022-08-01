@@ -1,1 +1,0 @@
-data class Coffee(val black: Boolean, val sugarQuantity: Int)
