@@ -1,4 +1,6 @@
-*/.gradle/
-*/.idea/
-*/gradle/
-\CloudHelper\
+/.gradle/
+/.idea/
+/gradle/
+CloudHelper/
+/FoodRunner.zip/
+/Resturant App.zip/
